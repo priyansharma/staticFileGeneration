@@ -1,0 +1,30 @@
+{
+    "name": "Just Blogs",
+    "short_name": "justBlogs",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#3367D6",
+    "description": "Read blogs",
+    "icons":[
+        {
+            "src": "/public/images/72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/public/images/96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/public/images/192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/public/images/512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
